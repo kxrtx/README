@@ -8,9 +8,11 @@
 
 💻 Passionate about tech, business and innovation
 
-🔍 Previous internships at SOTI, UofT Information Security Department, Celestica and entrepenurship experience
+🔍 Previous internships at SOTI, UofT Information Security Department, Celestica and entrepreneurship experience
 
 🚀 Ready to collaborate and innovate
+
+
 
 
 🌐 Connect with me:
