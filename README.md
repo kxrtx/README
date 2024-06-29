@@ -1,5 +1,5 @@
-👋 Hi, I'm Kirti
-🎓 Computer Engineering graduate at the University of Toronto
+#👋 Hi, I'm Kirti
+#🎓 Computer Engineering graduate at the University of Toronto
 📈 Minor in Engineering Business
 🖥️ Certificate in AI/ML
 💻 Passionate about tech, business and innovation
